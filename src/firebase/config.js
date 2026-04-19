@@ -4,13 +4,12 @@ import { getAuth } from "firebase/auth";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyANa0BHWANlGuml3I0dq2FYXsnsbUxWreE",
-  authDomain: "truth-lens-85847.firebaseapp.com",
-  projectId: "truth-lens-85847",
-  storageBucket: "truth-lens-85847.firebasestorage.app",
-  messagingSenderId: "599549080374",
-  appId: "1:599549080374:web:f3d9d2afb96c9f5ec53997",
-  measurementId: "G-E5FXFS1HD8"
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_AUTH_DOMAIN",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_STORAGE_BUCKET",
+  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+  appId: "YOUR_APP_ID"
 };
 
 
